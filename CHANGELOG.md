@@ -1,5 +1,7 @@
 # Changelog
 
+## 4.1.1 - 2019-12-05
+- Updated Node dependency to v12 LTS
 
 ## 4.1.0 - 2019-06-16
 - "Ping" feature was added as an extra check (if enabled in config.json)
